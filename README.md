@@ -1,5 +1,3 @@
-Fix README formatting
-
 # Energy Operations KPI Dashboard
 
 ## Project Overview
