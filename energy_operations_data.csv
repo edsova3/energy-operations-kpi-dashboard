@@ -1,0 +1,26 @@
+FacilityID,FacilityName,County,City ,State,Equipment ID,Equipment Name,Equipment Type,Inspection Date,Inspection Type,Inspection Result,Maintenance Date,Maintenance Description,Maintenance Cost,Maintenance Status
+1,Piketon Operations Center,Pike,Piketon,OH,101,Transformer T-101,Transformer,6/1/2026,Electrical,P,6/3/2026,Routine transformer inspection and oil check,325,Completed
+1,Piketon Operations Center,Pike,Piketon,OH,102,Cooling Pump CP-12,Pump,6/4/2026,Mechanical,P,6/5/2026,Pump seal inspection and lubrication,210.5,Completed
+1,Piketon Operations Center,Pike,Piketon,OH,103,Backup Generator BG-7,Generator,6/6/2026,Safety,F,6/7/2026,Battery replacement and safety retest,890,Completed
+1,Piketon Operations Center,Pike,Piketon,OH,104,Control Panel CP-4,Electrical Panel,6/9/2026,Electrical,P,6/10/2026,Wiring inspection and panel cleaning,150,Completed
+1,Piketon Operations Center,Pike,Piketon,OH,105,Air Handler AH-2,HVAC,6/12/2026,Routine,P,6/13/2026,Filter replacement and airflow check,175.25,Completed
+2,Scioto Maintenance Hub,Scioto,Portsmouth,OH,201,Conveyor Motor M-8,Motor,6/2/2026,Mechanical,F,6/4/2026,Bearing replacement,840.5,Completed
+2,Scioto Maintenance Hub,Scioto,Portsmouth,OH,202,Water Pump WP-3,Pump,6/5/2026,Safety,P,6/6/2026,Pressure test and gasket replacement,260,Completed
+2,Scioto Maintenance Hub,Scioto,Portsmouth,OH,203,Compressor C-2,Compressor,6/8/2026,Mechanical,F,6/9/2026,Compressor belt replacement,615.75,Completed
+2,Scioto Maintenance Hub,Scioto,Portsmouth,OH,204,Security Gate SG-1,Security System,6/11/2026,Safety,P,6/12/2026,Sensor calibration,95,Completed
+2,Scioto Maintenance Hub,Scioto,Portsmouth,OH,205,Lighting Bank LB-5,Electrical,6/15/2026,Electrical,P,6/16/2026,Lighting circuit repair,130,Completed
+3,Ross Regional Service Center,Ross,Chillicothe,OH,301,Emergency Generator EG-4,Generator,6/3/2026,Routine,P,6/5/2026,Fuel system inspection,410,Completed
+3,Ross Regional Service Center,Ross,Chillicothe,OH,302,Boiler B-1,Boiler,6/7/2026,Safety,F,6/8/2026,Valve replacement and safety check,1250,Completed
+3,Ross Regional Service Center,Ross,Chillicothe,OH,303,HVAC Unit H-9,HVAC,6/10/2026,Mechanical,P,6/11/2026,Coil cleaning and filter replacement,225,Completed
+3,Ross Regional Service Center,Ross,Chillicothe,OH,304,Switchgear S-6,Switchgear,6/14/2026,Electrical,P,6/15/2026,Thermal scan and connection tightening,375.5,Completed
+3,Ross Regional Service Center,Ross,Chillicothe,OH,305,Wastewater Pump WW-2,Pump,6/18/2026,Environmental,F,6/19/2026,Pump motor repair,980,In Progress
+4,Jackson Field Station,Jackson,Jackson,OH,401,Fuel Tank FT-1,Storage Tank,6/1/2026,Environmental,P,6/2/2026,Leak inspection and valve service,300,Completed
+4,Jackson Field Station,Jackson,Jackson,OH,402,Transfer Pump TP-6,Pump,6/6/2026,Mechanical,P,6/7/2026,Seal replacement,245.75,Completed
+4,Jackson Field Station,Jackson,Jackson,OH,403,Generator G-12,Generator,6/9/2026,Safety,F,6/10/2026,Exhaust repair and retest,720,Completed
+4,Jackson Field Station,Jackson,Jackson,OH,404,Breaker Panel BP-3,Electrical Panel,6/13/2026,Electrical,P,6/14/2026,Breaker inspection,180,Completed
+4,Jackson Field Station,Jackson,Jackson,OH,405,Ventilation Fan VF-2,HVAC,6/17/2026,Routine,P,6/18/2026,Fan belt adjustment,115,Completed
+5,Greenup Support Facility,Greenup,Greenup,KY,501,Cooling Tower CT-1,Cooling System,6/2/2026,Routine,P,6/3/2026,Water treatment and fan inspection,455,Completed
+5,Greenup Support Facility,Greenup,Greenup,KY,502,Electrical Feeder EF-8,Electrical,6/5/2026,Electrical,F,6/6/2026,Cable repair and load test,1325,Completed
+5,Greenup Support Facility,Greenup,Greenup,KY,503,Access Control AC-2,Security System,6/8/2026,Safety,P,6/9/2026,Badge reader replacement,275,Completed
+5,Greenup Support Facility,Greenup,Greenup,KY,504,Air Compressor AC-9,Compressor,6/12/2026,Mechanical,P,6/13/2026,Oil change and pressure test,360,Completed
+5,Greenup Support Facility,Greenup,Greenup,KY,505,Fire Suppression FS-1,Safety System,6/16/2026,Safety,F,6/17/2026,Nozzle replacement and system retest,690,Scheduled
